@@ -2,7 +2,7 @@ This microservice queries a text file called requests.txt to either save a dream
 
 To request date from this microservice and engage with its functionality, below is a sample call written to requests.txt:
 
-Saving Dream:Troy
+Saving Dream:Troy\n
 I felt like I was flying!
 
 Once this has been written to requests.txt, the dream is saved under the user after "Saving Dream:" with the dream being the second line in the text file written.
